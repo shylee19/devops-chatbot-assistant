@@ -1,0 +1,40 @@
+
+📝 Daily Stand-Up Summary for shylee:
+- Yesterday: studied
+- Today: study
+- Blockers: no
+
+
+📝 Daily Stand-Up Summary for sneha:
+- Yesterday: studied
+- Today: ate
+- Blockers: yes
+
+
+📝 Daily Stand-Up Summary for Shylee (2025-08-26 18:32:43):
+- Yesterday: nothing
+- Today: study
+- Blockers: no
+
+=====================================
+
+📝 Daily Stand-Up Summary for Dev1 (2025-08-26 18:32:51):
+- Yesterday: eat
+- Today: sleep
+- Blockers: no
+
+=====================================
+
+📝 Daily Stand-Up Summary for Dev2 (2025-08-26 18:33:00):
+- Yesterday: study
+- Today: sleep
+- Blockers: yes
+
+=====================================
+
+📝 Daily Stand-Up Summary for Dev3 (2025-08-26 18:33:12):
+- Yesterday: work
+- Today: study
+- Blockers: yes
+
+=====================================

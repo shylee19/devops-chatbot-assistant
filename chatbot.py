@@ -1,6 +1,6 @@
 from datetime import datetime
 
-team = ["Shylee", "Dev1", "Dev2", "Dev3"]
+team = ["Shylee", "Sneha", "Akhil", "Chandra"]
 
 for name in team:
     print(f"\n👋 Hello {name}! Let's do your stand-up.")
